@@ -12,7 +12,7 @@ init(autoreset=True)
 AUTHOR = "EXCOTIC"
 GITHUB = "https://github.com/hackerzeus21"
 
-IMAGE_URL = "https://github.com/hackerzeus21/SECRET-ITEMS/blob/main/d7a24094a543282501e45cb2cf31c2f0.jpg?raw=true"
+IMAGE_URL = "https://raw.githubusercontent.com/hackerzeus21/SECRET-ITEMS/refs/heads/main/d7a24094a543282501e45cb2cf31c2f0.jpg?token=GHSAT0AAAAAAEAMCCDZZMTR3PTHYXWKHLEY2R2BBOQ"
 
 # =========================
 # CLEAR SCREEN
